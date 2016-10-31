@@ -3,8 +3,8 @@ This little program is intended to show dupliate files in  given directory (recu
 
 use as follows:
 
-python main.py (lists the output in the console window)
-python main.py > output.txt (stores the output within output.txt)
+ - python main.py (lists the output in the console window)
+ - python main.py > output.txt (stores the output within output.txt)
 
 
 
